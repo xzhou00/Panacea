@@ -1,0 +1,8 @@
+Visual reference: https://panaceafinancial.com/
+Observed brand navy: #08104D; primary orange: #C32E00.
+Public logo: https://panaceafinancial.com/wp-content/uploads/2021/12/panacea-financial-logo-black.svg
+Metropolis fonts: public website assets under /wp-content/uploads/2020/09/.
+Doctor-focused lending context: https://panaceafinancial.com/
+Refinancing and federal-loan considerations: https://panaceafinancial.com/resources/a-doctors-guide-to-refinancing-student-loans/
+Contact: https://panaceafinancial.com/contact/
+No doctor counts, testimonials, or savings results were invented. Dashboard balances are fictional demo data.
